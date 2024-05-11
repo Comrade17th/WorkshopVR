@@ -25,6 +25,6 @@ public class Target : MonoBehaviour
 
     private void LayDown()
     {
-        
+        Debug.Log($"layed down");
     }
 }
