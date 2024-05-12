@@ -15,12 +15,12 @@ public class Target : MonoBehaviour
 
     private void OnEnable()
     {
-        throw new NotImplementedException();
+        
     }
 
     private void OnDisable()
     {
-        throw new NotImplementedException();
+        
     }
 
     private void LayDown()
