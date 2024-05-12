@@ -36,6 +36,9 @@ public class DetailSpawner : MonoBehaviour
             child.GetComponent<Detail_BlueprintLogic>().CreateDetail(spawnPos);
         }
     }
+/*
 
+ * 
+ */
 
 }
